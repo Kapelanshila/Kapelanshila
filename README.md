@@ -6,7 +6,7 @@
 </div>
 
 ## 💭 About Me
-I am currently a graduate digital consultant in data engineering. I've always been interested in technology and enjoy working on digital art in my spare time. My goal is to design efficient IT systems and visually appealing, user-friendly software.
+I am currently a graduate digital consultant in data engineering. I've always been interested in technology and enjoy working on digital art in my spare time.
 
 **Website**: [cheyo-chomba.netlify.app](https://cheyo-chomba.netlify.app/)
 
